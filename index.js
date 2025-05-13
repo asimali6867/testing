@@ -14,7 +14,7 @@ connectDB();
 
 const app = express();
 
-// Middleware
+// Middlewareee
 app.use(cors()); // Enable CORS for frontend communication
 
 // Increase body size limit for base64 image uploads
